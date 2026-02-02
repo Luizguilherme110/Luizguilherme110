@@ -1,6 +1,6 @@
 # Luiz Guilherme
 
-![Coding GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/coding.gif)
+![Coding GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/animated/keyboard.gif)
 
 Desenvolvedor focado em soluções práticas e bem documentadas. Aqui você encontra projetos, experimentos e estudos.
 
