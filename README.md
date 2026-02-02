@@ -1,6 +1,6 @@
 # Luiz Guilherme
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5c2Y2N2Q2d3g4N3Q1aWJ5Y2R0eGQxZ2YzN2R2M2FhN2I0Y2F0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gQG16i8J8Go3n7k8mM/giphy.gif)
+![Coding GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/coding.gif)
 
 Desenvolvedor focado em soluções práticas e bem documentadas. Aqui você encontra projetos, experimentos e estudos.
 
@@ -9,13 +9,15 @@ Desenvolvedor focado em soluções práticas e bem documentadas. Aqui você enco
 
 ## 🧰 Tecnologias
 - JavaScript / Node.js
+- Python
+- n8n
 - APIs REST
 - Git & GitHub
 
 ## 📫 Contato
-- GitHub: https://github.com/Luizguilherme110
-- LinkedIn: https://www.linkedin.com/in/luiz-guilherme-gomes-coelho-6447bb2aa
-- Email: luizggomescoelho@gmail.com
+- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Luizguilherme110)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-guilherme-gomes-coelho-6447bb2aa)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizggomescoelho@gmail.com)
 
 ---
 
