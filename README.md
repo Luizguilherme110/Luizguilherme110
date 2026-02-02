@@ -1,24 +1,21 @@
 # Luiz Guilherme
 
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5c2Y2N2Q2d3g4N3Q1aWJ5Y2R0eGQxZ2YzN2R2M2FhN2I0Y2F0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gQG16i8J8Go3n7k8mM/giphy.gif)
+
 Desenvolvedor focado em soluções práticas e bem documentadas. Aqui você encontra projetos, experimentos e estudos.
 
 ## 🚀 Destaques
-- **Voice to Text (API Online)** — transcrição de áudio com geração de SRT/VTT e resumo.
-- Outros projetos em evolução (backend, automações e integrações).
+- Projetos em evolução (backend, automações e integrações).
 
 ## 🧰 Tecnologias
 - JavaScript / Node.js
 - APIs REST
 - Git & GitHub
 
-## 📌 Projetos em destaque
-- **Voice to Text**: transcrição PT-BR com timestamps, SRT/VTT e resumo
-  - Repo: https://github.com/Luizguilherme110/voicetotext
-
 ## 📫 Contato
 - GitHub: https://github.com/Luizguilherme110
-- LinkedIn: (adicione seu link aqui)
-- Email: (adicione seu email aqui)
+- LinkedIn: https://www.linkedin.com/in/luiz-guilherme-gomes-coelho-6447bb2aa
+- Email: luizggomescoelho@gmail.com
 
 ---
 
