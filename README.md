@@ -2,7 +2,9 @@
 
 ![Hello SVG](./hello.svg)
 
-Desenvolvedor focado em soluções práticas e bem documentadas. Aqui você encontra projetos, experimentos e estudos.
+Desenvolvedor focado em soluções práticas, escaláveis e bem documentadas. Concluí o ensino médio na Austrália, onde morei por 4 anos, e atualmente curso Análise e Desenvolvimento de Software na UNIVIÇOSA, com conclusão prevista para o meio deste ano.
+
+Aqui você encontra projetos, experimentos e estudos voltados a backend, automações e integrações.
 
 ## 🚀 Destaques
 - Projetos em evolução (backend, automações e integrações).
