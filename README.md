@@ -25,6 +25,7 @@ Aqui você encontra projetos, experimentos e estudos voltados a backend, automa�
 - Python
 - n8n
 - APIs REST
+- TypeScript
 - Git & GitHub
 
 ## 📫 Contato
