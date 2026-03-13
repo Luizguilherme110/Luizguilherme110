@@ -26,6 +26,7 @@ Aqui você encontra projetos, experimentos e estudos voltados a backend, automa�
 - n8n
 - APIs REST
 - TypeScript
+- SQL / MetaBase
 - Git & GitHub
 
 ## 📫 Contato
@@ -49,6 +50,8 @@ Here you will find projects, experiments, and studies focused on backend, automa
 - Python
 - n8n
 - REST APIs
+- TypeScript
+- SQL / MetaBase
 - Git & GitHub
 
 ## 📫 Contact
